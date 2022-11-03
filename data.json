@@ -1,6 +1,31 @@
 {
   "apps": [
     {
+      "name": "常用网站 Frequently Used Websites",
+      "items": [
+        {
+          "name": "Google",
+          "url": "https://www.google.com/ncr",
+          "icon": "google"
+        },
+        {
+          "name": "哔哩哔哩",
+          "url": "https://www.bilibili.com",
+          "icon": "bilibili"
+        },
+        {
+          "name": "LinkedIn领英",
+          "url": "https://www.linkedin.com",
+          "icon": "linkedin"
+        },
+        {
+          "name": "Youtube",
+          "url": "https://www.youtube.com",
+          "icon": "youtube"
+        }
+      ]
+    },
+    {
       "name": "个人网站 Personal Websites",
       "items": [
         {
@@ -11,7 +36,7 @@
         {
           "name": "慧响源创库",
           "url": "https://zning.me/",
-          "icon": "airplane"
+          "icon": "folder-multiple-outline"
         },
         {
           "name": "新版张宁网",
@@ -21,7 +46,7 @@
         {
           "name": "90ITer官方网站",
           "url": "https://90iter.com/",
-          "icon": "package"
+          "icon": "folder-multiple-outline"
         }
       ]
     },
@@ -31,17 +56,17 @@
         {
           "name": "个人文集《理想之路》",
           "url": "https://idealboulevard.com/",
-          "icon": "folder-multiple-outline"
+          "icon": "package"
         },
         {
           "name": "行业专著《互联生态论》",
           "url": "https://ecologyofinternet.com/",
-          "icon": "airplane"
+          "icon": "package"
         },
         {
           "name": "小说《四月，晴》",
           "url": "https://apr-sunny.book.zning.me/",
-          "icon": "rss"
+          "icon": "package"
         },
         {
           "name": "最新文集《慧响寰宇》",
@@ -56,22 +81,22 @@
         {
           "name": "Gin学习网站",
           "url": "https://ginlearn.techina.science/",
-          "icon": "folder-multiple-outline"
+          "icon": "rss"
         },
         {
           "name": "Go学习网站",
           "url": "https://golearn.techina.science/",
-          "icon": "airplane"
+          "icon": "rss"
         },
         {
           "name": "Git Reference",
           "url": "https://gitman.zning.me/",
-          "icon": "folder-multiple-outline"
+          "icon": "rss"
         },
         {
           "name": "Markdown语法参考",
           "url": "https://mdman.zning.me/",
-          "icon": "airplane"
+          "icon": "rss"
         },
         {
           "name": "金融知识手册",
@@ -81,7 +106,7 @@
         {
           "name": "金融消息",
           "url": "https://finews.withounder.com/",
-          "icon": "package"
+          "icon": "rss"
         },
         {
           "name": "新股发行日历前端",
@@ -91,48 +116,7 @@
         {
           "name": "新股发行日历API",
           "url": "https://newstock.techina.science/data",
-          "icon": "package"
-        }
-      ]
-    },
-    {
-      "name": "常用网站",
-      "items": [
-        { "name": "Plex", "url": "http://play.example.com", "icon": "plex" },
-        {
-          "name": "Radarr",
-          "url": "http://movies.example.com",
-          "icon": "filmstrip"
-        },
-        {
-          "name": "Sonarr",
-          "url": "http://tv.example.com",
-          "icon": "television-box"
-        },
-        {
-          "name": "Bazarr",
-          "url": "http://subs.example.com",
-          "icon": "message-video"
-        },
-        {
-          "name": "Jackett",
-          "url": "http://jackett.example.com",
-          "icon": "tshirt-crew-outline"
-        },
-        {
-          "name": "Lidarr",
-          "url": "http://music.example.com",
-          "icon": "music"
-        },
-        {
-          "name": "Transmission",
-          "url": "http://dl.example.com",
-          "icon": "progress-download"
-        },
-        {
-          "name": "Youtube-DL",
-          "url": "http://yt.example.com",
-          "icon": "youtube"
+          "icon": "rss"
         }
       ]
     }
