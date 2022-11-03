@@ -137,23 +137,28 @@
       "links": [
         {
           "name": "Canvas",
-          "url": "https://canvas.bham.ac.uk/"
+          "url": "https://canvas.bham.ac.uk/",
+          "target": "_blank"
         },
         {
           "name": "Dubai Timetables",
-          "url": "https://dubaitimetables.bham.ac.uk/"
+          "url": "https://dubaitimetables.bham.ac.uk/",
+          "target": "_blank"
         },
         {
           "name": "Careers Connect",
-          "url": "https://bham.targetconnect.net/student/home.html"
+          "url": "https://bham.targetconnect.net/student/home.html",
+          "target": "_blank"
         },
         {
           "name": "Library Services",
-          "url": "https://intranet.birmingham.ac.uk/as/libraryservices/library/index.aspx"
+          "url": "https://intranet.birmingham.ac.uk/as/libraryservices/library/index.aspx",
+          "target": "_blank"
         },
         {
           "name": "The MyRiad Dubai - Linktree",
-          "url": "https://linktr.ee/TMDResidents"
+          "url": "https://linktr.ee/TMDResidents",
+          "target": "_blank"
         }
       ]
     },
