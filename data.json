@@ -29,27 +29,27 @@
       "name": "个人网站 Personal Websites",
       "items": [
         {
-          "name": "ZNN张宁网",
+          "name": "01 张宁网",
           "url": "https://www.zning.net.cn/",
           "icon": "folder-multiple-outline"
         },
         {
-          "name": "withouder慧响源创库",
+          "name": "02 慧响源创库",
           "url": "https://zning.me/",
           "icon": "folder-multiple-outline"
         },
         {
-          "name": "Withouder慧响",
+          "name": "03 Withouder慧响",
           "url": "https://withouder.com/",
           "icon": "folder-multiple-outline"
         },
         {
-          "name": "ZNN新版张宁网",
+          "name": "04 新版张宁网",
           "url": "https://zning.net/",
           "icon": "folder-multiple-outline"
         },
         {
-          "name": "90ITer官方网站",
+          "name": "05 90ITer官方网站",
           "url": "https://90iter.com/",
           "icon": "folder-multiple-outline"
         }
@@ -59,22 +59,22 @@
       "name": "个人资源独立站 Personal Resource Websites",
       "items": [
         {
-          "name": "个人文集《理想之路》",
+          "name": "11 个人文集《理想之路》",
           "url": "https://idealboulevard.com/",
           "icon": "package"
         },
         {
-          "name": "行业专著《互联生态论》",
+          "name": "12 行业专著《互联生态论》",
           "url": "https://ecologyofinternet.com/",
           "icon": "package"
         },
         {
-          "name": "小说《四月，晴》",
+          "name": "13 小说《四月，晴》",
           "url": "https://apr-sunny.book.zning.me/",
           "icon": "package"
         },
         {
-          "name": "最新文集《慧响寰宇》",
+          "name": "14 最新文集《慧响寰宇》",
           "url": "https://universe.withounder.com/",
           "icon": "package"
         }
