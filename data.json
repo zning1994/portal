@@ -258,15 +258,18 @@
       "links": [
         {
           "name": "LeetCode Records in Notion",
-          "url": "https://leetcode.zning.me/"
+          "url": "https://leetcode.zning.me/",
+          "target": "_blank"
         },
         {
           "name": "Useful Things 记录有用的东西",
-          "url": "https://processing.zning.net/USEFULTHINGS"
+          "url": "https://processing.zning.net/USEFULTHINGS",
+          "target": "_blank"
         },
         {
           "name": "TIPS",
-          "url": "https://processing.zning.net/TIPS"
+          "url": "https://processing.zning.net/TIPS",
+          "target": "_blank"
         }
       ]
     },
@@ -275,15 +278,18 @@
       "links": [
         {
           "name": "Instapaper",
-          "url": "https://www.instapaper.com/u"
+          "url": "https://www.instapaper.com/u",
+          "target": "_blank"
         },
         {
           "name": "Medium",
-          "url": "http://medium.com"
+          "url": "http://medium.com",
+          "target": "_blank"
         },
         {
           "name": "Reddit",
-          "url": "http://reddit.com"
+          "url": "http://reddit.com",
+          "target": "_blank"
         },
         {
           "name": "Spotify",
@@ -292,10 +298,6 @@
         {
           "name": "Trakt",
           "url": "http://trakt.tv"
-        },
-        {
-          "name": "YouTube",
-          "url": "https://youtube.com/feed/subscriptions"
         }
       ]
     },
