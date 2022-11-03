@@ -24,6 +24,11 @@
           "icon": "youtube"
         },
         {
+          "name": "Github",
+          "url": "https://github.com",
+          "icon": "github"
+        },
+        {
           "name": "LeetCode",
           "url": "https://leetcode.com/problemset/all/",
           "icon": "code-not-equal-variant"
