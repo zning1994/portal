@@ -35,7 +35,7 @@ jobs:
         npm i;
         cp data.example.json data.json;
         npm run build;
-        cd dist && cp -ri ./. ../../;
+        cd dist && yes | cp -ri ./. ../../;
         cd ../../ && ls -a .;
 
     - name: Commit files
