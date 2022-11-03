@@ -133,6 +133,31 @@
   ],
   "bookmarks": [
     {
+      "category": "@UoBD",
+      "links": [
+        {
+          "name": "Canvas",
+          "url": "https://canvas.bham.ac.uk/"
+        },
+        {
+          "name": "Dubai Timetables",
+          "url": "https://dubaitimetables.bham.ac.uk/"
+        },
+        {
+          "name": "Careers Connect",
+          "url": "https://bham.targetconnect.net/student/home.html"
+        },
+        {
+          "name": "Library Services",
+          "url": "https://intranet.birmingham.ac.uk/as/libraryservices/library/index.aspx"
+        },
+        {
+          "name": "The MyRiad Dubai - Linktree",
+          "url": "https://linktr.ee/TMDResidents"
+        }
+      ]
+    },
+    {
       "category": "Communicate",
       "links": [
         {
