@@ -22,6 +22,21 @@
           "name": "Youtube",
           "url": "https://www.youtube.com",
           "icon": "youtube"
+        },
+        {
+          "name": "LeetCode",
+          "url": "https://leetcode.com/problemset/all/",
+          "icon": "code-not-equal-variant"
+        },
+        {
+          "name": "Library Genesis",
+          "url": "http://libgen.is/",
+          "icon": "note-multiple-outline"
+        },
+        {
+          "name": "Jiumo Search 鸠摩搜索",
+          "url": "https://www.jiumodiary.com/",
+          "icon": "file-search-outline"
         }
       ]
     },
@@ -175,12 +190,20 @@
           "url": "https://discord.com"
         },
         {
+          "name": "Outlook",
+          "url": "http://outlook.com"
+        },
+        {
           "name": "Gmail",
           "url": "http://gmail.com"
         },
         {
           "name": "Slack",
           "url": "https://slack.com/signin"
+        },
+        {
+          "name": "WhatsApp Web",
+          "url": "https://web.whatsapp.com/"
         }
       ]
     },
@@ -202,8 +225,20 @@
       ]
     },
     {
-      "category": "Design",
+      "category": "Dev & Design",
       "links": [
+        {
+          "name": "Codepen",
+          "url": "https://codepen.io/"
+        },
+        {
+          "name": "Devdocs",
+          "url": "https://devdocs.io"
+        },
+        {
+          "name": "Devhints",
+          "url": "https://devhints.io"
+        },
         {
           "name": "Awwwards",
           "url": "https://awwwards.com"
@@ -219,41 +254,24 @@
       ]
     },
     {
-      "category": "Dev",
+      "category": "Processing",
       "links": [
         {
-          "name": "Codepen",
-          "url": "https://codepen.io/"
+          "name": "LeetCode Records in Notion",
+          "url": "https://leetcode.zning.me/"
         },
         {
-          "name": "Devdocs",
-          "url": "https://devdocs.io"
+          "name": "Useful Things 记录有用的东西",
+          "url": "https://processing.zning.net/USEFULTHINGS"
         },
         {
-          "name": "Devhints",
-          "url": "https://devhints.io"
+          "name": "TIPS",
+          "url": "https://processing.zning.net/TIPS"
         }
       ]
     },
     {
-      "category": "Media",
-      "links": [
-        {
-          "name": "Spotify",
-          "url": "http://browse.spotify.com"
-        },
-        {
-          "name": "Trakt",
-          "url": "http://trakt.tv"
-        },
-        {
-          "name": "YouTube",
-          "url": "https://youtube.com/feed/subscriptions"
-        }
-      ]
-    },
-    {
-      "category": "Reading",
+      "category": "Reading & Media",
       "links": [
         {
           "name": "Instapaper",
@@ -266,6 +284,18 @@
         {
           "name": "Reddit",
           "url": "http://reddit.com"
+        },
+        {
+          "name": "Spotify",
+          "url": "http://browse.spotify.com"
+        },
+        {
+          "name": "Trakt",
+          "url": "http://trakt.tv"
+        },
+        {
+          "name": "YouTube",
+          "url": "https://youtube.com/feed/subscriptions"
         }
       ]
     },
