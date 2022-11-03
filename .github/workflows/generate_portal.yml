@@ -1,0 +1,39 @@
+name: 'generate_portal'
+
+on:
+  push:
+    branches:
+      - main
+#   schedule:
+#     - cron: '10 3 * * *'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout from repo
+      uses: actions/checkout@main
+      with:
+        ref: main
+
+    - name: Checkout repo
+      uses: actions/checkout@main
+      with:
+        repository: zning1994/sui2
+        branch: main
+#         token: ${{ secrets.PRIVATE_TOEKEN }}
+        path: sui2
+    
+    - name: Setup Node.js environment
+      uses: actions/setup-node@v3.5.1
+ 
+    - name: Running Script(s)
+      run: |
+        cd sui2;
+        npm i;
+        cp data.example.json data.json;
+        npm run build;
+        cd dist;
+        cp -ri ./. ../../;
