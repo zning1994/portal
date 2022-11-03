@@ -33,7 +33,7 @@ jobs:
       run: |
         cd sui2;
         npm i;
-        cp data.example.json data.json;
+        cp ../data.json data.json;
         npm run build;
         cd dist && yes | cp -ri ./. ../../;
         cd ../../ && ls -a .;
