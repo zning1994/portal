@@ -141,6 +141,11 @@
           "target": "_blank"
         },
         {
+          "name": "Intranet",
+          "url": "https://intranet.birmingham.ac.uk/",
+          "target": "_blank"
+        },
+        {
           "name": "Dubai Timetables",
           "url": "https://dubaitimetables.bham.ac.uk/",
           "target": "_blank"
@@ -227,23 +232,6 @@
         {
           "name": "Devhints",
           "url": "https://devhints.io"
-        }
-      ]
-    },
-    {
-      "category": "Lifestyle",
-      "links": [
-        {
-          "name": "Design Milk",
-          "url": "https://design-milk.com/category/interior-design/"
-        },
-        {
-          "name": "Dwell",
-          "url": "https://www.dwell.com/"
-        },
-        {
-          "name": "Freshome",
-          "url": "https://www.mymove.com/freshome/"
         }
       ]
     },
