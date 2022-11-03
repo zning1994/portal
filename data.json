@@ -4,14 +4,14 @@
       "name": "常用网站 Frequently Used Websites",
       "items": [
         {
-          "name": "Google",
+          "name": "Google谷歌",
           "url": "https://www.google.com/ncr",
           "icon": "google"
         },
         {
-          "name": "哔哩哔哩",
+          "name": "Bilibili哔哩哔哩",
           "url": "https://www.bilibili.com",
-          "icon": "bilibili"
+          "icon": "television-classic"
         },
         {
           "name": "LinkedIn领英",
@@ -29,17 +29,22 @@
       "name": "个人网站 Personal Websites",
       "items": [
         {
-          "name": "张宁网",
+          "name": "ZNN张宁网",
           "url": "https://www.zning.net.cn/",
           "icon": "folder-multiple-outline"
         },
         {
-          "name": "慧响源创库",
+          "name": "withouder慧响源创库",
           "url": "https://zning.me/",
           "icon": "folder-multiple-outline"
         },
         {
-          "name": "新版张宁网",
+          "name": "Withouder慧响",
+          "url": "https://withouder.com/",
+          "icon": "folder-multiple-outline"
+        },
+        {
+          "name": "ZNN新版张宁网",
           "url": "https://zning.net/",
           "icon": "folder-multiple-outline"
         },
