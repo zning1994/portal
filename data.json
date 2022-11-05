@@ -79,8 +79,13 @@
           "icon": "folder-multiple-outline"
         },
         {
-          "name": "06 Processing  ",
+          "name": "06 Processing",
           "url": "https://processing.zning.net/",
+          "icon": "folder-multiple-outline"
+        },
+        {
+          "name": "07 GitLab",
+          "url": "https://git.sh.zning.science:9994",
           "icon": "folder-multiple-outline"
         }
       ]
