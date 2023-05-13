@@ -176,6 +176,11 @@
           "target": "_blank"
         },
         {
+          "name": "Verify Platform",
+          "url": "https://verify.bham.ac.uk/",
+          "target": "_blank"
+        },
+        {
           "name": "Dubai Timetables",
           "url": "https://dubaitimetables.bham.ac.uk/",
           "target": "_blank"
