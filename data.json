@@ -4,6 +4,11 @@
       "name": "常用网站 Frequently Used Websites",
       "items": [
         {
+          "name": "ChatGPT",
+          "url": "https://chat.openai.com/",
+          "icon": "chat-processing-outline"
+        },
+        {
           "name": "Google谷歌",
           "url": "https://www.google.com/ncr",
           "icon": "google"
