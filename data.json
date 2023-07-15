@@ -181,6 +181,11 @@
           "target": "_blank"
         },
         {
+          "name": "UoB CS GitLab",
+          "url": "https://gitlab.cs.bham.ac.uk/",
+          "target": "_blank"
+        },
+        {
           "name": "Verify Platform",
           "url": "https://verify.bham.ac.uk/",
           "target": "_blank"
