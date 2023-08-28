@@ -41,12 +41,12 @@
         {
           "name": "Namecheap",
           "url": "https://www.namecheap.com",
-          "icon": "namecheap"
+          "icon": "domain"
         },
         {
           "name": "Cloudflare",
           "url": "https://www.cloudflare.com",
-          "icon": "cloudflare"
+          "icon": "cloud-lock-open-outline"
         },
         {
           "name": "Library Genesis",
