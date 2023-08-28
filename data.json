@@ -39,6 +39,16 @@
           "icon": "code-not-equal-variant"
         },
         {
+          "name": "Namecheap",
+          "url": "https://www.namecheap.com",
+          "icon": "namecheap"
+        },
+        {
+          "name": "Cloudflare",
+          "url": "https://www.cloudflare.com",
+          "icon": "cloudflare"
+        },
+        {
           "name": "Library Genesis",
           "url": "http://libgen.is/",
           "icon": "note-multiple-outline"
