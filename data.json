@@ -9,6 +9,11 @@
           "icon": "chat-processing-outline"
         },
         {
+          "name": "DeepL",
+          "url": "https://deepl.com/",
+          "icon": "chat-processing-outline"
+        },
+        {
           "name": "Google谷歌",
           "url": "https://www.google.com/ncr",
           "icon": "google"
