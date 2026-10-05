@@ -4,11 +4,6 @@
       "name": "常用网站 Frequently Used Websites",
       "items": [
         {
-          "name": "ChatGPT",
-          "url": "https://chatgpt.com/",
-          "icon": "chat-processing-outline"
-        },
-        {
           "name": "DeepL",
           "url": "https://deepl.com/",
           "icon": "language"
@@ -55,7 +50,7 @@
         },
         {
           "name": "Library Genesis",
-          "url": "http://libgen.is/",
+          "url": "https://libgen.li/",
           "icon": "note-multiple-outline"
         },
         {
@@ -65,8 +60,198 @@
         },
         {
           "name": "Sci-hub",
-          "url": "https://sci-hub.se/",
+          "url": "https://sci-hub.ru/",
           "icon": "file-search-outline"
+        }
+      ]
+    },
+    {
+      "name": "AI 对话助手 AI Assistants",
+      "items": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "icon": "chat-processing-outline"
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "icon": "chat-processing-outline"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "icon": "chat-processing-outline"
+        },
+        {
+          "name": "DeepSeek",
+          "url": "https://chat.deepseek.com/",
+          "icon": "chat-processing-outline"
+        },
+        {
+          "name": "Grok",
+          "url": "https://grok.com/",
+          "icon": "chat-processing-outline"
+        },
+        {
+          "name": "Kimi",
+          "url": "https://www.kimi.com/",
+          "icon": "chat-processing-outline"
+        },
+        {
+          "name": "通义千问",
+          "url": "https://tongyi.aliyun.com/",
+          "icon": "chat-processing-outline"
+        },
+        {
+          "name": "豆包",
+          "url": "https://www.doubao.com/",
+          "icon": "chat-processing-outline"
+        },
+        {
+          "name": "Perplexity",
+          "url": "https://www.perplexity.ai/",
+          "icon": "chat-processing-outline"
+        }
+      ]
+    },
+    {
+      "name": "AI 编程 AI Coding",
+      "items": [
+        {
+          "name": "Claude Code",
+          "url": "https://claude.ai/code",
+          "icon": "code-braces"
+        },
+        {
+          "name": "Cursor",
+          "url": "https://cursor.com/",
+          "icon": "code-braces"
+        },
+        {
+          "name": "GitHub Copilot",
+          "url": "https://github.com/features/copilot",
+          "icon": "code-braces"
+        },
+        {
+          "name": "Codex",
+          "url": "https://chatgpt.com/codex",
+          "icon": "code-braces"
+        },
+        {
+          "name": "v0",
+          "url": "https://v0.dev/",
+          "icon": "code-braces"
+        },
+        {
+          "name": "Lovable",
+          "url": "https://lovable.dev/",
+          "icon": "code-braces"
+        },
+        {
+          "name": "Replit",
+          "url": "https://replit.com/",
+          "icon": "code-braces"
+        }
+      ]
+    },
+    {
+      "name": "AI 开发平台 AI Platforms & APIs",
+      "items": [
+        {
+          "name": "Anthropic Console",
+          "url": "https://console.anthropic.com/",
+          "icon": "robot-outline"
+        },
+        {
+          "name": "OpenAI Platform",
+          "url": "https://platform.openai.com/",
+          "icon": "robot-outline"
+        },
+        {
+          "name": "Google AI Studio",
+          "url": "https://aistudio.google.com/",
+          "icon": "robot-outline"
+        },
+        {
+          "name": "OpenRouter",
+          "url": "https://openrouter.ai/",
+          "icon": "robot-outline"
+        },
+        {
+          "name": "Hugging Face",
+          "url": "https://huggingface.co/",
+          "icon": "robot-outline"
+        },
+        {
+          "name": "Ollama",
+          "url": "https://ollama.com/",
+          "icon": "robot-outline"
+        }
+      ]
+    },
+    {
+      "name": "AI 研究与知识 AI Research",
+      "items": [
+        {
+          "name": "NotebookLM",
+          "url": "https://notebooklm.google.com/",
+          "icon": "book-search-outline"
+        },
+        {
+          "name": "Elicit",
+          "url": "https://elicit.com/",
+          "icon": "book-search-outline"
+        }
+      ]
+    },
+    {
+      "name": "AI 创作 AI Creative",
+      "items": [
+        {
+          "name": "Midjourney",
+          "url": "https://www.midjourney.com/",
+          "icon": "palette-outline"
+        },
+        {
+          "name": "Runway",
+          "url": "https://runwayml.com/",
+          "icon": "palette-outline"
+        },
+        {
+          "name": "Suno",
+          "url": "https://suno.com/",
+          "icon": "palette-outline"
+        },
+        {
+          "name": "ElevenLabs",
+          "url": "https://elevenlabs.io/",
+          "icon": "palette-outline"
+        }
+      ]
+    },
+    {
+      "name": "AI 榜单资讯 AI Leaderboards & News",
+      "items": [
+        {
+          "name": "LMArena",
+          "url": "https://lmarena.ai/",
+          "icon": "trophy-outline"
+        },
+        {
+          "name": "Artificial Analysis",
+          "url": "https://artificialanalysis.ai/",
+          "icon": "trophy-outline"
+        },
+        {
+          "name": "Hugging Face Papers",
+          "url": "https://huggingface.co/papers",
+          "icon": "trophy-outline"
+        },
+        {
+          "name": "Hacker News",
+          "url": "https://news.ycombinator.com/",
+          "icon": "trophy-outline"
         }
       ]
     },
@@ -369,4 +554,4 @@
       ]
     }
   ]
-} 
+}
